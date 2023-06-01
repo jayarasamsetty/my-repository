@@ -14,7 +14,7 @@ Changes to be committed:
 git diff
 git log
 
-ssh-keygen -o -t rsa -c "jayarasamsetty@gmail.com"
+ssh-keygen -o -t rsa -c "jgit ayarasamsetty@gmail.com"
  login to the page github
 when you are modifing the program the changes will be done and also saved  
 
