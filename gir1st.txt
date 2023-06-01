@@ -1,1 +1,36 @@
 thisis my first git filr....
+
+git init
+git add 
+git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   gir1st.txt
+
+git diff
+git log
+
+ssh-keygen -o -t rsa -c "jayarasamsetty@gmail.com"
+
+
+
+
+echo "# my-repository" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:jayarasamsetty/my-repository.git
+git push -u origin main
+
+git add file/.
+git commit -m ""
+git push -u origin main
+
+
+
+test
