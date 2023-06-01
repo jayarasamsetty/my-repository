@@ -16,7 +16,7 @@ git log
 
 ssh-keygen -o -t rsa -c "jayarasamsetty@gmail.com"
  login to the page github
-when you are modifing the program 
+when you are modifing the program the changes will be done and also saved  
 
 
 
