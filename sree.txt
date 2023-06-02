@@ -1,1 +1,7 @@
-working 
+  git clone git@github.com:jayarasamsetty/my-repository.git
+dir/a
+git branch
+git checkout jay
+git status
+git stash
+git push
